@@ -108,13 +108,12 @@ body {
     border-style: solid;
 
   }
-  .HH {
-    text-align: top;
-    color: blue;
-    background-color: yellow;
-    border-width: 2px;
-    border-style: solid;
+  HN . {
+      margin: 20px;
+      text-alin: center;
+      padding-left: 220px;
   }
+
   
   
   /* 3D Rotation and Position of Each Slide */
